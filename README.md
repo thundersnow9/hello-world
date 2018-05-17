@@ -1,4 +1,4 @@
 # hello-world
 Github intro
 
-I'm a meteorologist and data scientist.
+I'm a meteorologist, data scientist, and sailor.
